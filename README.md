@@ -1,3 +1,3 @@
 # college-jobs
-Make a website about an endangered animal.
-Website url: https://uzaha.github.io/first-college-job/
+Works done during Responsive Web Development classes
+Last job url: https://uzaha.github.io/first-college-job/
