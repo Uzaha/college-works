@@ -1,7 +1,7 @@
 # college-works
 Works done during Responsive Web Development classes.
 
-Website link: https://uzaha.github.io/college-works/index.html
+Site about an endangered animal: https://uzaha.github.io/college-works/index.html
 
 Letter made: https://uzaha.github.io/college-works/lesson-2/
 
