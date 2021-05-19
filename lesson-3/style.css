@@ -1,0 +1,47 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40vw;
+    font-size: 20px;
+}
+
+.seletor {
+    display: flex;
+}
+
+div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid deepskyblue;
+    height: 50px;
+}
+
+.voltar,
+.avancar {
+    width: 50px;
+}
+
+.um,
+.dois,
+.tres {
+    color: deepskyblue;
+    width: 50px;
+}
+
+.um:hover,
+.dois:hover,
+.tres:hover {
+    background-color: deepskyblue;
+    color: white;
+}
+
+.voltar:hover,
+.avancar:hover {
+    background-color: lightblue;
+}
+
+.voltar img {
+    transform: rotate(180deg);
+}
