@@ -1,0 +1,139 @@
+html,
+body {
+    font-family: 'Just Me Again Down Here', cursive;
+    font-family: 'Roboto', sans-serif;
+    list-style: none;
+    text-decoration: none;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+
+.pag1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 80vh;
+}
+
+.folha {
+    width: 775px;
+    height: 442px;
+    background-image: url(../img/paper.svg);
+}
+
+header p {
+    margin-left: 300px;
+    margin-top: 45px;
+    font-family: Just Me Again Down Here;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 30px;
+    color: #000000;
+}
+
+main h1 {
+    font-family: Just Me Again Down Here;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 30px;
+    margin-left: 210px;
+    margin-top: 45px;
+    margin-bottom: 0px;
+    color: #000000;
+}
+
+main p {
+    text-indent: 20px;
+    font-family: Just Me Again Down Here;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 30px;
+    margin-left: 210px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    color: #000000;
+}
+
+footer p {
+    font-family: Just Me Again Down Here;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 30px;
+    margin-left: 250px;
+    color: #000000;
+}
+
+.notification p {
+    text-align: center;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15px;
+    line-height: 18px;
+    color: black;
+    animation: blink 1s infinite;
+}
+
+@keyframes blink {
+    to {
+        opacity: .3;
+    }
+}
+
+.rodape {
+    display: flex;
+    justify-content: center;
+}
+
+.botao {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 557px;
+    height: 9vh;
+}
+
+.n {
+    width: 155px;
+}
+
+.botao img {
+    animation: go-back 1s infinite alternate;
+}
+
+@keyframes go-back {
+    0% {
+        transform: translateX(40px);
+    }
+    100% {
+        transform: translateX(0);
+    }
+}
+
+a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 169px;
+    height: 30px;
+    text-decoration: none;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15px;
+    line-height: 18px;
+    color: #FFFFFF;
+    background: #9B51E0;
+    border-radius: 80px;
+}
+
+a:hover {
+    background: #FFFFFF;
+    border: 2px solid #9B51E0;
+    color: black;
+}
