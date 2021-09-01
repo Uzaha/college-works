@@ -3,7 +3,7 @@ Works done during Responsive Web Development classes.
 
 Site about an endangered animal: https://uzaha.github.io/college-works/index.html
 
-Letter made: https://uzaha.github.io/carta-html/lesson-2/
+Letter made: https://uzaha.github.io/college-works/carta-html/index.html
 
 Seletor made: https://uzaha.github.io/college-works/seletor-html/seletor.html
 
