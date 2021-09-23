@@ -1,5 +1,4 @@
 # college-works
-Works done during Responsive Web Development classes.
 
 Site about an endangered animal: https://uzaha.github.io/college-works/first-html/index.html
 
