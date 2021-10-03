@@ -29,16 +29,6 @@ namespace aircraftSale
             return conexaoBD;
         }
 
-        private void label4_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label3_Click(object sender, EventArgs e)
-        {
-
-        }
-
         private void buttonLimpar_Click(object sender, EventArgs e)
         {
             limparCampos();
